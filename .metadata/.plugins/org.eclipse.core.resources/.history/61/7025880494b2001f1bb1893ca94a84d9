@@ -1,0 +1,9 @@
+package javaPracticePrograms;
+
+public class RemoveDuplicatesFromString {
+	public static void main(String[] args) {
+		String name="hello";
+		Set<Character> removeDuplicate=new HashSet<>;
+	}
+
+}

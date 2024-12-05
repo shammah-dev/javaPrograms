@@ -1,0 +1,34 @@
+package javaPracticePrograms;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+
+public class GetSmallestAndLargestStringCombination {
+
+	public static void main(String[] args) {
+		String s="welcometojava";
+		int n=s.length();
+		ArrayList<String> values=new ArrayList<>();
+		String tempa,tempb;
+		
+		for(int i=0;i<n-2;i++) {
+			values.add(s.substring(i, i+3));
+		}
+		System.out.println(values);
+		int len=values.size();
+		for(int i=0;i<values.size();i++) {
+			for(int j=1;j<values.size();j++) {
+		if(values.get(i).compareTo(values.get(j))>0) {
+			tempa=values.get(i);
+		    tempb=values.get(j);
+		    values.add(i, tempb);
+		    values.add(j, tempa);	
+		}
+			
+			
+			}
+		}
+		System.out.println(values);
+	}
+}

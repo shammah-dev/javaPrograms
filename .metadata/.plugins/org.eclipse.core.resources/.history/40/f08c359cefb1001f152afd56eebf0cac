@@ -1,0 +1,27 @@
+package javaPracticePrograms;
+
+import java.util.HashMap;
+
+public class checkTheDuplicateCharofStringsNew {
+	
+	public static void main(String[] args) {
+		String name="Shammahs";
+		int count=1;
+		HashMap<Character, Integer> m=new HashMap<>();
+		
+		for(int i=0;i<name.length();i++) {
+			if(m.containsKey(name.charAt(i))) {
+				break;
+			}
+			for(int j=i+1;j<name.length();j++) {
+				if((Character.toLowerCase(name.charAt(i)))== (Character.toLowerCase(name.charAt(j)))){
+					count++;
+				}
+			}
+			if(count>1) {
+				m.put(name.charAt(i), count);
+			}
+		}
+	}
+
+}

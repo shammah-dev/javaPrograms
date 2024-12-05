@@ -1,0 +1,11 @@
+package javaPracticePrograms;
+//Write a method that will take a string as an argument. The method will reverse the position of words and return it.
+
+public class ReverseWordsOfSentence {
+
+	public static void main(String[] args) {
+		String sentence="My name is Eclipse";
+		String[] arrayOfSen= sentence.split("//s");
+		System.out.println(arrayOfSen);
+	}
+}

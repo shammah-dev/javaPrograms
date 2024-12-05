@@ -1,0 +1,11 @@
+package javaPracticePrograms;
+
+public class checkTheDuplicateCharofStringsNew {
+	
+	public static void main(String[] args) {
+		String name="Shammahs";
+		int count=1;
+		Hashmap<Character, Integer> m=new Hashmap<>();
+	}
+
+}
