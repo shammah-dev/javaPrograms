@@ -20,6 +20,21 @@ public class CaptalizeEachWordOfString {
 		}
 		
 		System.out.println(outputArray);
+	
+	
+	
+	String words="tell me about yourself";
+	String[] wordsArray=words.split("\\s");
+	String newSentence="";
+	
+	for(String s:wordsArray) {
+	String firstLetter=	s.substring(0,1).toUpperCase();
+	String otherwords=s.substring(1, s.length());
+	String newWord=firstLetter+otherwords;
+	newSentence=newSentence+" "+newWord;	
 	}
+	
+	System.out.println(newSentence.trim());
 
+}
 }
