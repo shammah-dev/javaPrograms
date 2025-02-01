@@ -14,5 +14,14 @@ public class ReverseWordsOfSentence {
 		for(int i = result.length-1; i>= 0; i--) {
 			System.out.print(result[i]+" ");
 		}
+		System.out.println("");
+		
+		
+		String newSen="";
+		String[] newString=sentence.split("\\s");
+		for(int i=newString.length-1;i>=0;i--) {
+		newSen=newSen+" "+newString[i];
+		}
+		System.out.println(newSen.trim());
 	}
 }

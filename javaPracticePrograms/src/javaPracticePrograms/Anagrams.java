@@ -2,6 +2,12 @@ package javaPracticePrograms;
 
 import java.util.Scanner;
 
+/*
+ * Two strings,  and , are called anagrams if they contain all the same c
+ * haracters in the same frequencies. For this challenge, the test is not case-sensitive. 
+ * For example, the anagrams of CAT are CAT, ACT, tac, TCA, aTC, and CtA.
+ */
+
 public class Anagrams {	
 
 	    static boolean isAnagram(String a, String b) {
