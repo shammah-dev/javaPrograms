@@ -2,10 +2,10 @@ package javaPracticePrograms;
 
 import java.util.ArrayList;
 
-public class ArrayListPrograms {
+public class FunctionalityOfStream {
 	public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<String>();
-        names.add("Kezi");
+        names.add("John");
         names.add("Array");
         names.add("Angel");
         names.add("Rahul");
