@@ -1,0 +1,11 @@
+package javaPracticePrograms;
+
+import java.util.HashMap;
+
+public class checkTheDuplicateCharofStringsNew2 {
+	
+	public static void main(String[] args) {
+		String name="SAroj Manjula Rani";
+
+}
+}

@@ -1,0 +1,11 @@
+package javaPracticePrograms;
+
+public class ReverseInteger {
+	
+	public static void main(String args[]) {
+		int num=98768;
+		int rev=0;
+		int rem;
+	}
+
+}

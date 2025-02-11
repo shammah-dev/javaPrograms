@@ -1,0 +1,9 @@
+package javaPracticePrograms;
+
+import java.util.ArrayList;
+
+public class FunctionalityOfStream2 {
+	public static void main(String args[]) {
+		ArrayList<String> names=new ArrayList<>();
+	}
+}

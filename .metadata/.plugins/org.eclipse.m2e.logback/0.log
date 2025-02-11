@@ -1,2 +1,95 @@
 2024-11-05 23:43:15,768 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2024-11-06 10:36:51,038 [Worker-11: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-09 20:45:46,794 [Worker-14: Executing the early startup extensions] INFO  c.b.BrowserStackPluginActivator - Starting BrowserStack Plugin...
+2025-01-09 20:51:29,060 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 20:51:29,073 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 20:51:29,080 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 20:51:29,085 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 20:51:29,085 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 20:51:29,086 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 20:51:30,470 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 20:51:30,470 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 20:51:30,471 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 20:51:30,471 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 20:51:30,471 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 20:51:30,472 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 21:08:53,455 [Worker-37: Launching Anagrams2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:09:02,858 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 21:09:02,859 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:09:02,859 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 21:09:02,860 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 21:09:02,860 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:09:02,860 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 21:09:16,127 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 21:09:16,128 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:09:16,129 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 21:09:16,129 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 21:09:16,129 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:09:16,130 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 21:18:24,569 [Worker-35: Launching SortingArray] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 21:18:24,582 [Worker-35: Launching SortingArray] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:18:31,921 [Worker-35: Launching SortingArray] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 21:18:31,926 [Worker-35: Launching SortingArray] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:20:00,608 [Worker-32: Launching SortingArray] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 21:20:00,622 [Worker-32: Launching SortingArray] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:21:06,697 [Worker-36: Launching SortingArray] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 21:21:06,701 [Worker-36: Launching SortingArray] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:28:48,207 [Worker-54: Launching SortingArray] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 21:28:48,221 [Worker-54: Launching SortingArray] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 21:34:20,432 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 21:34:20,435 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:34:20,438 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 21:34:20,439 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 21:34:20,439 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 21:34:20,440 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 21:46:25,089 [Framework stop - Equinox Container: df49b4e7-70e9-4ed9-83a5-619e87e39385] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+2025-01-09 21:54:55,655 [Worker-12: Executing the early startup extensions] INFO  c.b.BrowserStackPluginActivator - Starting BrowserStack Plugin...
+2025-01-09 21:58:13,244 [Worker-32: Launching checkTheDuplicateCharofStringsNew] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 22:01:59,318 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-09 22:01:59,320 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 22:01:59,322 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-09 22:01:59,323 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-09 22:01:59,323 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-09 22:01:59,324 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-09 22:20:38,928 [Worker-87: Launching checkTheDuplicateCharofStringsNew2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 22:20:38,950 [Worker-87: Launching checkTheDuplicateCharofStringsNew2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 22:25:06,503 [Worker-85: Launching checkTheDuplicateCharofStringsNew2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 22:25:06,513 [Worker-85: Launching checkTheDuplicateCharofStringsNew2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 22:25:13,288 [Worker-85: Launching checkTheDuplicateCharofStringsNew2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 22:25:27,717 [Worker-89: Launching checkTheDuplicateCharofStringsNew2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 22:26:23,736 [Worker-87: Launching checkTheDuplicateCharofStringsNew2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 22:26:23,746 [Worker-87: Launching checkTheDuplicateCharofStringsNew2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-09 22:27:59,616 [Worker-91: Launching checkTheDuplicateCharofStringsNew2] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-09 22:27:59,633 [Worker-91: Launching checkTheDuplicateCharofStringsNew2] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 01:45:19,869 [Worker-107: Launching extractOnlyDigitsOrAlphabetsFromString] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 01:45:19,886 [Worker-107: Launching extractOnlyDigitsOrAlphabetsFromString] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 02:02:56,556 [Worker-112: Launching RemoveDuplicatesFromString] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 02:02:56,582 [Worker-112: Launching RemoveDuplicatesFromString] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 02:03:48,805 [Worker-112: Launching RemoveDuplicatesFromString] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 02:03:48,814 [Worker-112: Launching RemoveDuplicatesFromString] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 02:03:51,420 [Worker-112: Launching RemoveDuplicatesFromString] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 02:07:51,023 [Worker-115: Launching RemoveDuplicatesFromString] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 02:09:14,002 [Worker-115: Launching RemoveDuplicatesFromString] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 02:09:14,017 [Worker-115: Launching RemoveDuplicatesFromString] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 11:01:55,754 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-10 11:01:55,756 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-10 11:01:55,757 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-10 11:01:55,758 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-10 11:01:55,758 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-10 11:01:55,758 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-10 11:02:05,915 [Framework stop - Equinox Container: e85af717-1f7b-47e2-903a-4fe11954fad5] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...
+2025-01-10 11:17:24,536 [Worker-11: Executing the early startup extensions] INFO  c.b.BrowserStackPluginActivator - Starting BrowserStack Plugin...
+2025-01-10 11:18:02,678 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackEnabled
+2025-01-10 11:18:02,692 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-10 11:18:02,695 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackEnabled : true P/javaPracticePrograms
+2025-01-10 11:18:02,696 [main] INFO  c.b.a.BrowserStackPropertyTester - Testing : isBrowserStackDisabled
+2025-01-10 11:18:02,696 [main] INFO  c.b.BrowserStackPluginActivator - Prefs Keys []
+2025-01-10 11:18:02,696 [main] INFO  c.b.a.BrowserStackPropertyTester - Validation Result isBrowserStackDisabled : false P/javaPracticePrograms
+2025-01-10 11:21:44,616 [Worker-1: Launching ReverseInteger] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 11:22:20,483 [Worker-30: Launching Demo] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 11:22:20,494 [Worker-30: Launching Demo] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 11:24:42,602 [Worker-21: Launching ReverseWordsOfSentence] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 11:24:42,619 [Worker-21: Launching ReverseWordsOfSentence] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 11:30:28,126 [Worker-64: Launching CheckIfStringhasOnlyAlphabetsorDigits] INFO  c.b.BrowserStackPluginActivator - The previous launch removed.
+2025-01-10 11:30:28,154 [Worker-64: Launching CheckIfStringhasOnlyAlphabetsorDigits] ERROR c.b.BrowserStackPluginActivator - Error in setJavaAgentVMArgs - java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getMavenProject(org.eclipse.core.runtime.IProgressMonitor)" because "prjFecade" is null
+2025-01-10 14:00:00,934 [Framework stop - Equinox Container: 299fcf7b-e8b3-4f9e-8529-8467a26b156f] INFO  c.b.BrowserStackPluginActivator - Stopping BrowserStack Plugin...

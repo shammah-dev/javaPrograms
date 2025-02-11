@@ -1,0 +1,8 @@
+package javaPracticePrograms;
+
+public class SortingArray {
+	
+	int[] a=new int[5];
+	a= {2,3,1,4,5};
+
+}

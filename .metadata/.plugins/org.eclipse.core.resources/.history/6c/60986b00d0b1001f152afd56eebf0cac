@@ -1,9 +1,0 @@
-package javaPracticePrograms;
-
-public class checkTheDuplicateCharOfString {
-	
-	public static void main (String args[]) {
-		
-	}
-
-}
